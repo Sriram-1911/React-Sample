@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Sample/static/css/main.89db799e.css",
-    "main.js": "/React-Sample/static/js/main.49e64205.js",
-    "static/media/laptop.png": "/React-Sample/static/media/laptop.f2ea8b89e90e984aeaf0.png",
-    "index.html": "/React-Sample/index.html",
-    "main.89db799e.css.map": "/React-Sample/static/css/main.89db799e.css.map",
-    "main.49e64205.js.map": "/React-Sample/static/js/main.49e64205.js.map"
+    "main.css": "/react-sample-2/static/css/main.c0d006ae.css",
+    "main.js": "/react-sample-2/static/js/main.441c3442.js",
+    "static/media/laptop.png": "/react-sample-2/static/media/laptop.f2ea8b89e90e984aeaf0.png",
+    "static/media/fend.png": "/react-sample-2/static/media/fend.f92f10f33efd510ec884.png",
+    "static/media/mysql.png": "/react-sample-2/static/media/mysql.552dd64fde65abd6e44d.png",
+    "static/media/python.png": "/react-sample-2/static/media/python.8320b091a600dd130034.png",
+    "static/media/logo.png": "/react-sample-2/static/media/logo.e58eba3b4b6a0f1ca23e.png",
+    "index.html": "/react-sample-2/index.html",
+    "main.c0d006ae.css.map": "/react-sample-2/static/css/main.c0d006ae.css.map",
+    "main.441c3442.js.map": "/react-sample-2/static/js/main.441c3442.js.map"
   },
   "entrypoints": [
-    "static/css/main.89db799e.css",
-    "static/js/main.49e64205.js"
+    "static/css/main.c0d006ae.css",
+    "static/js/main.441c3442.js"
   ]
 }
